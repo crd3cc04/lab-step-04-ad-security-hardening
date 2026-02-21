@@ -19,9 +19,10 @@ Lockout policies slow down attackers attempting to guess passwords and provide c
 4. Apply the settings listed above
 
 ## Screenshot
-![Account Lockout Policy Screenshot](Screenshots\account-lockout-policy.PNG)
+![Account Lockout Policy Screenshot](Screenshots/account-lockout-policy.PNG)
 
 ## Summary
 This configuration strengthens authentication security and provides early warning signs of brute-force attempts.
+
 
 
