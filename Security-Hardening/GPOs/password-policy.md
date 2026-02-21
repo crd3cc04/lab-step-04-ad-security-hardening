@@ -20,10 +20,11 @@ Weak passwords are one of the most common attack vectors. Enforcing strong passw
 4. Apply the settings listed above
 
 ## Screenshots
-![Password Policy Screenshot](security-hardening-password-policy)
+![Password Policy Screenshot](Screenshots/security-hardening-password-policy)
 
 ## Summary
 This hardening step strengthens domain authentication and reduces the likelihood of unauthorized access.
+
 
 
 
