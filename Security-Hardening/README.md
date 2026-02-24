@@ -39,3 +39,17 @@ Each subfolder includes:
 - Configuration steps
 - Screenshots
 - Summary
+
+# GPO Verification
+
+After completing all security hardening configurations, a `gpupdate /force` command was executed to apply the updated Group Policy Objects. The System event log was reviewed to confirm successful application with no errors.
+
+## Why This Matters (Security+ Alignment)
+- **Domain 4.0 – Operations & Incident Response:** Verifying that security controls are applied is part of configuration monitoring and change management.
+- **Domain 3.0 – Implementation:** Ensures that hardening settings are active and enforced on the domain controller.
+- **Domain 2.0 – Architecture & Design:** Confirms that the secure baseline is functioning as intended.
+
+## Screenshots
+![Successful gpupdate](Screenshots/firewall-gpupdate-successful.PNG)
+
+![Event View](Screenshots/grouppolicy-events-successful-verification.PNG)
