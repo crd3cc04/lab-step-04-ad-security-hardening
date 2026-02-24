@@ -131,6 +131,7 @@ This prevents remote Powershell sessions, a common attacker technique.
 
 ## Screenshots
 
+![Inbound, outbound, and custom rules](Screenshots/inbound-AD-rules-enabled.PNG)
 
 ---
 
